@@ -20,6 +20,7 @@ The objective of this week's assignment was to develop a command-line tool for g
 1. First open up terminal and run npm init
 2. Run npm install inquirer@8.2.4
 3. Follow prompts!
+4. README is generated
 
 ### Walkthrough Video
 Walkthrough Video Link: [How-To](https://drive.google.com/file/d/1KqNT_sImfHW-jrCKr5_KgviMQl9y-p4O/view)
