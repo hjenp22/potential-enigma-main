@@ -19,11 +19,13 @@ The objective of this week's assignment was to develop a command-line tool for g
 ## Professinal README Generator Step by Step! <!--or application steps to each their own -->
 1. First open up terminal and run npm init
 2. Run npm install inquirer@8.2.4
-3. Follow prompts!
-4. README is generated
+3. node index.js
+4. Follow prompts!
+5. README is generated
+![screenshot of terminal](/Screen%20Shot%202024-02-23%20at%2010.12.29%20AM.png)
 
 ### Walkthrough Video
-Walkthrough Video Link: [How-To](https://drive.google.com/file/d/1KqNT_sImfHW-jrCKr5_KgviMQl9y-p4O/view)
+Walkthrough Video Link: [How-To](https://drive.google.com/file/d/1WxJ7Yl36d1fvMXZJd0kIEZTQTXhPHLpN/view)
 
 
 <!-- CONTRIBUTING -->
